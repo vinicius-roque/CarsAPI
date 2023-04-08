@@ -1,4 +1,4 @@
-package com.cars.api.model;
+package com.cars.api.model.enums;
 
 public enum Model {
   Compacto,
